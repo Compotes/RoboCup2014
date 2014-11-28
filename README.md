@@ -1,3 +1,3 @@
 RoboCup2014
 ===========
-Basic Program
+Program for Kompot v1.0 
